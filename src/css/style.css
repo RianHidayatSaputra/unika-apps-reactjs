@@ -1,0 +1,179 @@
+@font-face {
+    font-family: ManropeR;
+    src: url('../fonts/Manrope/Manrope-Regular.ttf');
+}
+@font-face {
+    font-family: ManropeB;
+    src: url('../fonts/Manrope/Manrope-Bold.ttf');
+}
+@font-face {
+    font-family: Nunito;
+    src: url('../fonts/Nunito/Nunito-Regular.ttf');
+}
+@font-face {
+    font-family: RobotoB;
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+} 
+@font-face {
+    font-family: RobotoR;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+} 
+.me-auto {
+    font-family: ManropeR;
+}
+.bg-section-one {
+    background-image: url('../img/img_1.png');
+    background-size: cover;
+    height: 620px;
+}
+.bg-section-one .d-flex .text h1 {
+    font-family: RobotoB; 
+    font-size: 4rem;
+}
+.bg-section-one .d-flex .text .d-flex button {
+    font-family: Nunito; 
+    font-size: 1.5rem;
+}
+.ms-2 h5 {
+    font-family: ManropeB;
+    font-size: 1.2rem;
+}
+.ms-2 p {
+    font-family: ManropeR;
+    font-size: 0.9rem;
+}
+.bg-dark .w-75 .d-flex h3 {
+    font-family: ManropeB;
+}
+.bg-dark .w-75 .d-flex p {
+    font-family: RobotoR;
+}
+.bg-dark .w-75 .d-flex button {
+    font-family: Nunito;
+}
+.title h2 {
+    font-family: RobotoB;
+}
+.title p {
+    font-family: RobotoR;
+}
+.form input {
+    border: none;
+}
+.form button {
+    border: none;
+}
+.deskripsi h4 {
+    font-size: 1.3rem;
+    font-family: ManropeB;
+}
+.deskripsi p {
+    font-family: RobotoR;
+    line-height: 10px;
+}
+.footer p {
+    line-height: 10px;
+    font-family: Nunito;
+}
+.bg-about {
+    background-image: url('../img/bgabout.png');
+    background-size: cover;
+    height: 255px;
+}
+.bg-about h1 {
+    font-size: 3rem;
+    font-family: ManropeB;
+}
+.button {
+    margin-top: -9vh;
+}
+.quote h6 {
+    font-size: 1.3rem;
+    font-family: RobotoR;
+}
+.quote p {
+    font-family: ManropeB;
+}
+.bg-contact {
+    background-image: url('../img/bgcontact.png');
+    background-size: cover;
+    height: 255px;
+}
+.text h4 {
+    font-family: ManropeB;
+}
+.text p, label {
+    font-family: Nunito;
+}
+.text button {
+    background-color: #024E82;
+    font-family: Nunito;
+}
+.diskon label {
+    background-color: #FFC107;
+    font-family: RobotoB;
+}
+.diskon {
+    margin-top: -119%;
+    margin-bottom: 107%;
+}
+.side span {
+    font-size: 0.8rem;
+    font-family: Nunito;
+}
+.side h5 {
+    font-size: 2.5rem;
+    font-family: RobotoB;
+}
+.side .rate p {
+    margin: -4px 0 0 3px;;
+}
+.side .price p {
+    font-size: 1.8rem;
+    font-family: RobotoR;
+}
+.side .description p {
+    font-family: Nunito;
+}
+.side form {
+    font-family: ManropeR;
+}
+.side form button {
+    background-color: #024E82;
+}
+.side .category p {
+    line-height: 8px;
+    font-family: Nunito;
+}
+.cart p {
+    font-family: ManropeR;
+}
+.cart h6 {
+    font-family: RobotoB;
+}
+.cart button {
+    background-color: #D6763C;
+    border: none;
+    font-family: ManropeR;
+}
+.checkout p {
+    font-family: ManropeR;
+}
+.checkout h6 {
+    font-family: RobotoB;
+}
+.btn-checkout button {
+    background-color: #D6763C;
+    border: none;
+    font-family: ManropeR;
+}
+#home, #products, #about, #contact {
+    text-decoration: none;
+    color: #aaa;
+}
+#products {
+    margin: 0 3vh 0 3vh;
+}
+#contact {
+    margin-left: 3vh;
+}    
